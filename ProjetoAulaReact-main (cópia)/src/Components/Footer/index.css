@@ -1,0 +1,22 @@
+footer{
+    /*position: fixed;*/
+    background-color: #131111;
+    height: 100px;
+    bottom: 0px;
+    width: 100%;
+}
+
+.menu li{
+    gap: 15px;
+}
+.menu li a{
+    color: white;
+}
+.menu li a:hover{
+    color: red;
+    border-bottom: none;
+}
+p{
+     color: white;
+     text-align: center;
+}

@@ -1,0 +1,13 @@
+img{
+    margin: 10px;
+    width: 90px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.card{
+    display: flex;
+}
+
+.card h1, p{
+    color: white;
+}

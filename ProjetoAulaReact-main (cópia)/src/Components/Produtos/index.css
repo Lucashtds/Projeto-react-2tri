@@ -1,0 +1,35 @@
+table{
+    border-collapse: collapse;
+}
+
+tr, td, th{
+    border: 1px solid silver;
+    padding: 7px;
+    font-size: 1em;
+}
+
+th{
+    background-color: antiquewhite;
+}
+
+.numeroRegistros{
+    text-align: left;
+    color: black;
+}
+
+.detalhesProduto {
+    padding: 20px;
+    font-size: 1em;
+    color: black;
+    background-color: #fdfdfd;
+    border: 1px solid #ccc;
+    width: fit-content;
+    
+    margin-top: 20px;
+}
+
+.detalhesProduto p {
+    margin: 5px 0;
+    color: black;
+    text-align: left;
+}
